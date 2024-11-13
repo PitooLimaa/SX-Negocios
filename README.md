@@ -75,4 +75,6 @@ Qual a média por Etnia?
 *Anexo no email estou deixando o arquivo do desenvolvimento de DataViz, utilizando a ferramenta PowerBI e tambem o arquivo do SQL com todo o código utilizado para analises.
   Realizei uma conexão direta com meu banco de dados assim automatizando e facilitando possiveis atualizações futuras caso haja novos dados.
 ![image](https://github.com/user-attachments/assets/9468a6ae-8a3b-4322-9866-171fae005bfc)
+![PBI 2](https://github.com/user-attachments/assets/414cf27b-422c-4603-ab8f-7259cbe0e21d)
+
 
